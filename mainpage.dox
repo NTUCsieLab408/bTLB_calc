@@ -1,0 +1,17 @@
+/**
+@mainpage bTLB_calc Manual
+
+@section Introduction
+bTLB_calc is a library for calculating the upper bound of bTLB entries for specific configurations.
+It contains a static library and a user program so this library can either be integrated with other software
+or be executed standalone.
+
+@section Usage
+First, type 'make' in a commad line to build this project.
+
+To use this library, please link to libbTLB_calc.a statically.
+
+To run the user program, please execute 'bTLB_calc' in a command line.
+
+For more details, please refer to the documentation of bTLB_calc.h.
+*/
